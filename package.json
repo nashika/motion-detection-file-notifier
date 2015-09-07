@@ -1,0 +1,26 @@
+{
+  "name": "motion-detection-notifier",
+  "version": "0.0.1",
+  "description": "Notify motion detection alerts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nashika/motion-detection-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nashika/motion-detection-notifier/issues"
+  },
+  "homepage": "https://github.com/nashika/motion-detection-notifier#readme",
+  "dependencies": {
+    "chokidar": "^1.0.5",
+    "commander": "^2.8.1"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  }
+}

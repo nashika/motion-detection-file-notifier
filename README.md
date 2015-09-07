@@ -1,1 +1,1 @@
-# motion-detection-file-notifier
+# motion-detection-notifier
