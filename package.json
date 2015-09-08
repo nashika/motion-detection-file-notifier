@@ -3,6 +3,9 @@
   "version": "0.0.3",
   "description": "Notify motion detection alerts.",
   "main": "index.js",
+  "bin": {
+    "motion-detection-notifier": "./bin/motion-detection-notifier"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
