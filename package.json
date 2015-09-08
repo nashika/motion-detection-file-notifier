@@ -1,6 +1,6 @@
 {
   "name": "motion-detection-notifier",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Notify motion detection alerts.",
   "main": "index.js",
   "scripts": {
