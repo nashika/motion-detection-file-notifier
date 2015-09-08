@@ -18,7 +18,9 @@
   "homepage": "https://github.com/nashika/motion-detection-notifier#readme",
   "dependencies": {
     "chokidar": "^1.0.5",
-    "commander": "^2.8.1"
+    "commander": "^2.8.1",
+    "log4js": "^0.6.26",
+    "pushbullet": "^1.4.3"
   },
   "devDependencies": {
     "coffee-script": "^1.10.0"

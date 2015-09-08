@@ -1,2 +1,4 @@
 .idea/libraries/Generated_files.xml
+.idea/workspace.xml
+logs/*.log
 node_modules

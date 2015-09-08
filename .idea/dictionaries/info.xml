@@ -1,7 +1,11 @@
 <component name="ProjectDictionaryState">
   <dictionary name="info">
     <words>
+      <w>apikey</w>
+      <w>appenders</w>
       <w>chokidar</w>
+      <w>msec</w>
+      <w>pushbullet</w>
     </words>
   </dictionary>
 </component>
