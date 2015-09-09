@@ -7,6 +7,7 @@
     "motion-detection-notifier": "./bin/motion-detection-notifier"
   },
   "scripts": {
+    "start": "node ./bin/motion-detection-notifier",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,5 +28,11 @@
   },
   "devDependencies": {
     "coffee-script": "^1.10.0"
-  }
+  },
+  "readme": "# motion-detection-notifier\r\n",
+  "readmeFilename": "README.md",
+  "gitHead": "2af502b37e01d46585dabea9b75d86256f442ef4",
+  "_id": "motion-detection-notifier@0.0.5",
+  "_shasum": "f18b1aa4e8326e60d0052273e5194c29fc210e1b",
+  "_from": "motion-detection-notifier@0.0.5"
 }
