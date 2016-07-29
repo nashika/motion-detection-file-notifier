@@ -1,10 +1,1 @@
-{
-  "version": 3,
-  "file": "core.js",
-  "sourceRoot": "",
-  "sources": [
-    "core.coffee"
-  ],
-  "names": [],
-  "mappings": ";AAAA;AAAA,MAAA;;EAAA,IAAA,GACE;IAAA,MAAA,EAAQ,IAAR;IACA,SAAA,EAAW,IADX;;;EAGF,MAAM,CAAC,OAAP,GAAiB;AAJjB"
-}
+{"version":3,"file":"core.js","sourceRoot":"","sources":["core.ts"],"names":[],"mappings":";AAAA,IAAI,IAAI,GAAO;IACb,MAAM,EAAE,IAAI;IACZ,SAAS,EAAE,IAAI;CAChB,CAAC;AAEF,iBAAS,IAAI,CAAC"}

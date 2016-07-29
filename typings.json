@@ -1,0 +1,12 @@
+{
+  "globalDependencies": {
+    "chokidar": "registry:dt/chokidar#1.4.3+20160316155526",
+    "commander": "registry:dt/commander#2.3.0+20160317120654",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160715232503",
+    "log4js": "registry:dt/log4js#0.0.0+20160608042355",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "node": "registry:dt/node#6.0.0+20160728152422",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160606155157"
+  }
+}
