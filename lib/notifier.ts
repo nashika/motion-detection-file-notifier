@@ -7,7 +7,7 @@ export class Notifier {
   }
 
   public notify(message:string):void {
-    core.logger.info("Notify. msg=#{message}");
+    core.logger.info(`Notify. msg=${message}`);
   }
 
 }

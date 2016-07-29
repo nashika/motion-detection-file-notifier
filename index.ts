@@ -12,7 +12,8 @@ import {Notifier} from "./lib/notifier";
 log4js.configure(path.normalize(__dirname + "/./log4js-config.json"), {cwd: path.normalize(__dirname + "/.")});
 core.logger = log4js.getLogger("system");
 
-commander.version(packageJson.version)
+commander
+  .version(packageJson.version)
   .usage("[options]")
   .option("-d, --directory [value]", "set the watch directory", String, ".")
   .option("-c, --count <n>", "set number of watch event times to start the notification.", Number, 3)
