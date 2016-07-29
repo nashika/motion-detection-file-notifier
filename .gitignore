@@ -1,5 +1,6 @@
-.idea/libraries/Generated_files.xml
-.idea/workspace.xml
+/.idea/libraries/Generated_files.xml
+/.idea/workspace.xml
 /logs/*.log
 /node_modules
+/npm-debug.log
 /typings
