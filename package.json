@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/nashika/motion-detection-notifier#readme",
   "dependencies": {
-    "chokidar": "^1.0.5",
-    "commander": "^2.8.1",
-    "log4js": "^0.6.26",
+    "chokidar": "^1.6.0",
+    "commander": "^2.9.0",
+    "log4js": "^0.6.38",
     "pushbullet": "^1.4.3"
   },
   "devDependencies": {
